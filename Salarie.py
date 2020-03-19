@@ -4,7 +4,7 @@ class salarie :
         self._nom = nom
         self._prenom = prenom
         self._echelonSal = echelonSal
-        self._id = id
+        self._id = ide
 
     def afficher(self):
         pass
